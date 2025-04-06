@@ -1,4 +1,4 @@
-# libre-lyrics
+* libre-lyrics
 
 Lyrics providers can only do so much when displaying lyrics on your favorite apps, such as Musixmatch with Spotify. When lyrics are
 displayed, they only show a single track to show all the lyrics and some songs may have multiple people singing at the same time while the
