@@ -1,0 +1,6 @@
+# libre-lyrics
+
+Lyrics providers can only do so much when displaying lyrics on your favorite apps, such as Musixmatch with Spotify. When lyrics are
+displayed, they only show a single track to show all the lyrics and some songs may have multiple people singing at the same time while the
+lyrics can only capture a single track. What I hope to accomplish with this project is to provide a way to send lyrics on more than one
+track so that listeners may enjoy reading the different lines that they weren't able to clearly hear before.
